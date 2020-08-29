@@ -1,8 +1,8 @@
 # Parallel-Computing
 Study for converting serial programs into parallel programs
 
-# Studied algorithms using MPI, pthreads, cuda
-* DP algorithms e.g. smith-waterman, longest common subsequence, shortest common supersequence
+# Studied algorithm using MPI, pthreads, cuda
+* Smith-waterman algorithm; (the approach can be applied to other DP algorithms e.g. Edit Distance, Longest Common Subsequence, Shortest Common Supersequence.)
 
 # Performance benchmarks
 ![image](https://github.com/reval59/Parallel-Computing/blob/master/screenshots/serial.png)
